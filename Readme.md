@@ -8,7 +8,7 @@ This repository started as a fork from [jbrennan]'s.
 The themes
 ----------
 
-*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage].
+*	Spacedust: This amazing theme was created by Mikael Hallendal (m5h) and its available on [his webpage][spacedust].
 
 	![Spacedust] [spacedust_image]
 
@@ -45,6 +45,14 @@ The themes
 
    ![Twilight] [twilight]
 
+*  XCasts: a dark theme loosely based on [Ryan Bates](http://railscasts.com/)' excellent [Railscasts theme for Textmate](http://railscasts.com/about). Found [here][xCastsurl]
+   
+   ![XCasts][xCasts]
+
+*  ObjectiveSheep: Works especially well if combined with some good Jazz through your headphones… something like Miles Davis’s “Kind of Blue” for example :-). Found [here][objectiveSheepurl]
+
+   ![ObjectiveSheep] [objectiveSheep]
+
 
 Installation
 ------------
@@ -71,7 +79,7 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [light]: http://farm6.static.flickr.com/5030/5592863390_04967685db_o.png  "Solarize Light"
    [humane_image]: http://farm6.static.flickr.com/5306/5592861916_4db32fe976_o.png  "Humane (Modified)"
    [spacedust_image]: http://simplyhacking.com/images/posts/spacedust-xcode-theme.png "Spacedust"
-   [his webpage]: https://gist.github.com/527103
+   [spacedust]: https://gist.github.com/527103
    [jbrennan]: https://github.com/jbrennan/xcode4themes
    [egov2_image]: https://lh4.googleusercontent.com/_Sv4FIWD7bb0/Ta2S0MPGvdI/AAAAAAAABjg/AGzN0U8UBjI/s576/evog2.jpg "EGOv2"
    [enormego developers]: http://developers.enormego.com/view/ego_xcode_theme_for_xcode_4_egov2
@@ -83,6 +91,10 @@ The Ruby script (which is public domain) was found [here] [script] and is being 
    [nate_stedman]: http://www.natestedman.com/post/morrowind-for-textmate-xcode/
    [morrowind]: http://s3.amazonaws.com/ns_pixels/blag/morrowind.png
    [twilighturl]: http://blog.cylence.com/2011/01/27/textmates-twilight-theme-for-xcode/
-   [twilight]: htqtp://f.cl.ly/items/010t080U2y1D1j1O3S1G/Screen%20shot%202011-01-27%20at%201.47.28%20PM.png
+   [twilight]: http://f.cl.ly/items/010t080U2y1D1j1O3S1G/Screen%20shot%202011-01-27%20at%201.47.28%20PM.png
    [tomorrowurl]: https://github.com/ChrisKempson/Tomorrow-Theme
    [tomorrow]: https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night.png
+   [xCastsurl]: https://github.com/bmeurer/XCasts-color-theme-for-Xcode-4
+   [xCasts]: http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
+   [objectiveSheepurl]: http://objectivesheep.com/blog/xcode4_color_theme
+   [objectiveSheep]: https://objectivesheep.s3.amazonaws.com/blog/xcode_color_theme/objectivesheepColorTheme.png

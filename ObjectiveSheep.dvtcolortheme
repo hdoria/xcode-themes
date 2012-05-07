@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.902174 0.902174 0.902174 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Monaco - 15.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.902174 0.902174 0.902174 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Monaco - 15.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.546105 0.515912 0.714 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Monaco - 15.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.902174 0.902174 0.902174 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Monaco - 15.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.902174 0.902174 0.902174 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Monaco - 15.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.0716771 0.0800255 0.108696 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.496 0.496 0.378 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.12 0.31 0.34 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.120102 0.120121 0.120095 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>1 1 1 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.496 0.496 0.378 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.578947 0.479704 0.181975 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.797928 0.798053 0.797882 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.491978 0.643798 0.237536 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.491978 0.643798 0.237536 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.491978 0.643798 0.237536 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.562237 0.623872 0.617728 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.412138 0.546447 0.200276 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.562237 0.623872 0.617728 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.412138 0.546447 0.200276 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.562237 0.623872 0.617728 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.412138 0.546447 0.200276 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.738785 0.369437 0.152829 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.738785 0.369437 0.152829 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.562237 0.623872 0.617728 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.412138 0.546447 0.200276 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.562237 0.623872 0.617728 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.412138 0.546447 0.200276 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.513929 0.591118 0.655524 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.797928 0.798053 0.797882 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.945652 0.945652 0.945652 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.738781 0.369306 0.160415 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.851562 0.418125 0.078371 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.797928 0.798053 0.797882 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.plain</key>
+		<string>Monaco - 14.0</string>
+	</dict>
+</dict>
+</plist>
