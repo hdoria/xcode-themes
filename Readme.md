@@ -158,7 +158,7 @@ Installation
 
   [Blackboard]: http://s11.postimage.org/n1htzhccj/Blackboard.png
   [CoalGraal]: http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
-  [CocoaFrooties]: http://michaelmangold.com/wp-content/uploads/2013/03/cocoafrooties2.png
+  [CocoaFrooties]: http://s14.postimg.org/r9bjp06kx/56ded722_1390_46ed_a2c2_c4f29a000c45.png
   [Dusk]: http://s11.postimage.org/cihuab9oj/Dusk.png
   [Duskv2]: http://s11.postimage.org/53sihxnsz/Duskv2.png
   [EGOv2]: http://s11.postimage.org/oa5pl44ar/EGOv2.png
