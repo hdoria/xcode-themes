@@ -143,6 +143,10 @@ Xcode Themes
 
   ![Yo][image-36]
 
+* DesertEx Revised: A Theme based on [DesertEx Revised][24]
+
+  ![DesertEx Revised][image-37]
+
 Installation
 ---- 
 
@@ -185,6 +189,7 @@ Find and install [ThemeInstaller][23] app from the Mac App Store. Open theme you
 [21]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme
 [22]:	http://justyo.co/
 [23]:	https://itunes.apple.com/app/themeinstaller/id1148208665
+[24]:   https://studiostyl.es/schemes/desertex-revised
 
 [image-1]:	http://s11.postimage.org/n1htzhccj/Blackboard.png
 [image-2]:	http://s11.postimage.org/m0hlacvcz/Coal_Graal.png
@@ -222,3 +227,4 @@ Find and install [ThemeInstaller][23] app from the Mac App Store. Open theme you
 [image-34]:	http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
 [image-35]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme/raw/master/preview.png
 [image-36]:	http://s22.postimg.org/dbtwkc0ip/Yo_color_theme.png
+[image-37]: https://s2.postimg.org/uhfkj1ei1/Screen_Shot_2017-08-26_at_20.21.29.png
