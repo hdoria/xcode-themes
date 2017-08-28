@@ -130,51 +130,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SFMono-Regular - 11.0</string>
+		<string>SFMono-Bold - 11.0</string>
 	</dict>
 </dict>
 </plist>

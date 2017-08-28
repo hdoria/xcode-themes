@@ -227,4 +227,4 @@ Find and install [ThemeInstaller][23] app from the Mac App Store. Open theme you
 [image-34]:	http://github.com/bmeurer/XCasts-color-theme-for-Xcode-4/raw/master/XCasts-screenshot.png
 [image-35]:	https://github.com/cargath/WWDC2016-Xcode-Color-Scheme/raw/master/preview.png
 [image-36]:	http://s22.postimg.org/dbtwkc0ip/Yo_color_theme.png
-[image-37]: https://s2.postimg.org/uhfkj1ei1/Screen_Shot_2017-08-26_at_20.21.29.png
+[image-37]: https://s2.postimg.org/6pafpexex/Screen_Shot_2017-08-28_at_17.23.55.png
